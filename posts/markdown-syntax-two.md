@@ -1,7 +1,7 @@
 ---
 author: Me
 title: Markdown Syntax Guide 2
-date: 2021-03-24
+date: 03-24-2021
 description: Copy of the sample article showcasing basic Markdown syntax and formatting for HTML elements.
 tags:
  - markdown
