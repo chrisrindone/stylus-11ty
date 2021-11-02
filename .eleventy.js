@@ -16,7 +16,7 @@ module.exports = (config) => {
   });
 
   config.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL, yyyy");
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLL dd, yyyy");
   });
 
   config.addCollection("tagList", collection => {
