@@ -9,7 +9,7 @@ module.exports = {
     subtitle: "Feeding you my blog",
     filename: "atom.xml",
     path: "/atom.xml",
-    id: "https://example.com/",
+    id: "https://heyuits.me/",
     authorName: "Chris",
     authorEmail: "chrisrindone@live.com"
   },
