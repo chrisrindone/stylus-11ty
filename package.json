@@ -18,5 +18,8 @@
     "watch:11ty": "eleventy --serve",
     "build": "yarn build:stylus && yarn build:11ty",
     "dev": "concurrently -n stylus,11ty \"yarn watch:stylus\" \"yarn watch:11ty\""
+  },
+  "dependencies": {
+    "@11tyrocks/eleventy-plugin-emoji-readtime": "^1.0.1"
   }
 }
